@@ -8,14 +8,11 @@ LAMBDA
 .JOIN()
 GREEDY STRATEGY
 
-
-
 # COUNTER
 - Creates a special dict where:
     - Keys are items counted (e.g. chars, nums, etc.)
     - Values are how many times each item apears
     ❣️ Best for counting dups, freqencies, histograms
-
 
 # VALUES()
 - Used on dictionaries to see all values without the keys
@@ -31,8 +28,6 @@ GREEDY STRATEGY
         ✅ Output: 3
                    5
                    2
-    
-
 
 # WORST-CASE SPACING BETWEEN CHARS FORMULA
 - How many times can one char appear without forcing it to be adjacent to itself?

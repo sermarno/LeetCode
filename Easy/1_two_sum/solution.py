@@ -6,7 +6,7 @@
 ### You can return the answer in any order.
 ###################
 
-######################### PROBLEM COVERS #########################
+######################### CONCEPTS COVERED #########################
 # CLASSES 
 # DICTIONARYS
 # FOR LOOP

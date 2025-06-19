@@ -18,6 +18,7 @@
 # .JOIN()
 # GREEDY STRATEGY
 
+
 # importing counter to count char frequencies
 from collections import Counter
 
@@ -57,11 +58,6 @@ class Solution:
         # join list into string and return result
         return ''.join(res)
         
-
-
-            
-            
-
 s = Solution()
 result = s.reorganizeString('aabas')
 print(result)

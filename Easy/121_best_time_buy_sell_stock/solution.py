@@ -11,8 +11,9 @@
 ### transaction. If you cannot achieve any profit, return 0.
 ###################
 
-######################### PROBLEM COVERS #########################
-# 
+######################### CONCEPTS COVERED #########################
+# ENUMERATE
+# FOR LOOP
 
 
 class Solution(object):

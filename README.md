@@ -1,0 +1,23 @@
+# LeetCode Practice - Amazon
+
+This repository contains my personal Python solutions to LeetCode problems commonly asked by Amazon.
+
+## Goals
+
+- Improve problem-solving skills
+- Remain sharp on data structures and algorithms
+- Practice writing clean, efficient code
+- Apply Git version control
+
+## Structure
+
+Each problem is stored in its own file, named similarly to the corresponding LeetCode problem (e.g. `1_two_sum`), where `1` is the problem number and `two_sum` is the problem title.
+
+Problems are organized by difficulty level into `Easy` and `Medium` folders.  
+Each problem folder includes:
+
+- `solution.py`: the complete solution with code comments
+- `notes.md`: a breakdown of key concepts and data structures used
+
+At the top of each solution file, you'll find the original LeetCode prompt and a list of the main topics involved. These topics are also explained in more detail in the accompanying `notes.md` file within the problem folder, with definitions and examples.
+

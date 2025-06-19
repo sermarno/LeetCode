@@ -14,8 +14,8 @@
 # BREADTH-FIRST SEARCH (BFS)
 # RANGE(LEN())
 
-from typing import List
 
+from typing import List
 
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:

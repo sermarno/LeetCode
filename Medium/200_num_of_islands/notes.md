@@ -3,9 +3,6 @@ DEPTH-FIRST SEARCH (DFS)
 BREADTH-FIRST SEARCH (BFS)
 RANGE(LEN())
 
-
-
-
 # DEPTH-FIRST SEARCH (DFS)
 - Explores as far down one path as possible before backing up and trying another
 - Use cases:
