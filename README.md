@@ -21,3 +21,21 @@ Each problem folder includes:
 
 At the top of each solution file, you'll find the original LeetCode prompt and a list of the main topics involved. These topics are also explained in more detail in the accompanying `notes.md` file within the problem folder, with definitions and examples.
 
+<!-- PROGRESS_START -->
+
+## Progress Tracker
+
+Easy: 2 / 41 solved
+
+- ✅ 121_best_time_buy_sell_stock (Easy)
+- ✅ 1_two_sum (Easy)
+
+Medium: 4 / 115 solved
+
+- ✅ 146_lru_cache (Medium)
+- ✅ 200_num_of_islands (Medium)
+- ✅ 3_long_substring_no_repeat_chars (Medium)
+- ✅ 767_reorganize_string (Medium)
+
+
+<!-- PROGRESS_END -->
