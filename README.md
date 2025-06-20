@@ -33,8 +33,9 @@ Easy: 5 / 41 solved
 - ✅ 58_len_of_last_word (Easy)
 - ✅ 9_palindrome_number (Easy)
 
-Medium: 4 / 115 solved
+Medium: 5 / 115 solved
 
+- ✅ 11_container_w_most_water (Medium)
 - ✅ 146_lru_cache (Medium)
 - ✅ 200_num_of_islands (Medium)
 - ✅ 3_long_substring_no_repeat_chars (Medium)
