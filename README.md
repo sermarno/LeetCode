@@ -25,11 +25,14 @@ At the top of each solution file, you'll find the original LeetCode prompt and a
 
 ## Progress Tracker
 
-Easy: 5 / 41 solved
+Easy: 8 / 41 solved
 
 - ✅ 121_best_time_buy_sell_stock (Easy)
 - ✅ 1_two_sum (Easy)
+- ✅ 202_happy_number (Easy)
 - ✅ 206_rev_linked_list (Easy)
+- ✅ 217_contains_duplicates (Easy)
+- ✅ 252_meeting_rooms (Easy)
 - ✅ 58_len_of_last_word (Easy)
 - ✅ 9_palindrome_number (Easy)
 
