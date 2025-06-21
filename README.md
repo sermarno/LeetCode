@@ -21,6 +21,15 @@ Each problem folder includes:
 
 At the top of each solution file, you'll find the original LeetCode prompt and a list of the main topics involved. These topics are also explained in more detail in the accompanying `notes.md` file within the problem folder, with definitions and examples.
 
+## Data Structures Covered
+- Arrays + Hashing
+- Dictionaries / Sets
+- Recursion
+- Two Pointers
+- Linked Lists
+- Sorting
+- Enumerate, Split, Range
+
 <!-- PROGRESS_START -->
 
 ## Progress Tracker
