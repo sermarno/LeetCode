@@ -1,9 +1,14 @@
-# CONCEPTS COVERED
+# Concepts Covered
 
-RANGE
+- RANGE()
 
+### Key:
+- ❣️ Inner Concept
+- 🦋 Example
+- 👉 Comment
+- ✅ Output
 
-# RANGE
+## RANGE()
 - Generates a sequence of numbers, which is commonly used to control a loop
 - Basic syntax:
     - range(stop)

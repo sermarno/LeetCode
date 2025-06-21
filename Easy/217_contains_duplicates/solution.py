@@ -6,6 +6,9 @@
 ###################
 
 ######################### CONCEPTS COVERED #########################
+# DICTIONARY
+# FOR LOOP
+# BOOLEANS
 
 from typing import List
 class Solution:

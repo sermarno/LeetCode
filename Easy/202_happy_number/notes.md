@@ -1,7 +1,12 @@
-# CONCEPTS COVERED
+# Concepts Covered
 
-SET()
+- SET()
 
+### Key:
+- ❣️ Inner Concept
+- 🦋 Example
+- 👉 Comment
+- ✅ Output
 
 # SET()
 - Unordered collection of unique elements

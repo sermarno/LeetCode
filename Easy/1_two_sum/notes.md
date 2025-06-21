@@ -1,28 +1,18 @@
-# CONCEPTS COVERED
+# Concepts Covered
 
-CLASS
-DICTIONARY
-FOR LOOP
-ENUMERATE
+- CLASS
+- DICTIONARY
+- FOR LOOP
+- ENUMERATE
 
-# CLASS
+### Key:
+- ❣️ Inner Concept
+- 🦋 Example
+- 👉 Comment
+- ✅ Output
 
-✅ writing a solution to find two numbers that add up to a target
-  by calling a method
-+-------------------------------------+
-|               Class                 |  ← Big circle/container (e.g., Solution)
-|                                     |
-|   +----------------------------+    |  
-|   |       Method 1 (twoSum)    |    |  ← Algorithms or functions inside
-|   +----------------------------+    |
-|                                     |
-|   +----------------------------+    |
-|   |       Method 2 (other stuff) |   |
-|   +----------------------------+    |
-|                                     |
-|   Variables/attributes (data)        |  ← Stored values related to the class
-|                                     |
-+-------------------------------------+
+## CLASS
+- Writing a solution to find two numbers that add up to a target by calling a method
 
     ❣️ __init__ = setup method ran once per new object: gives object initial values (e.g. name, age, size, etc.)
 
@@ -42,9 +32,8 @@ ENUMERATE
         p = Person("Serra"")
         p.say_hello() ✅ Output: Hello, my name is Serra! 
 
-# DICTIONARY
-
-❣️ key-value pairs that store a key (e.g. string, number, etc.)
+## DICTIONARY
+- Key-value pairs that store a key (e.g. string, number, etc.)
   and a value (e.g. number, string, list, another dictionary, etc.)
 
     🦋 Counting characters in string
@@ -102,9 +91,8 @@ ENUMERATE
 
     print(grouped) ✅ Output: {2: ['apple', 'banana'], 3: ['orange'], 1: ['grape']}
 
-# FOR LOOP
-
-❣️ used for iterating over a sequence (e.g. list, tuple, dictionary, set, or a string)
+## FOR LOOP
+- Used for iterating over a sequence (e.g. list, tuple, dictionary, set, or a string)
 
     🦋 Printing each item in list
     nuts = ['cashew', 'pistachio', 'almond']
@@ -153,4 +141,4 @@ ENUMERATE
     for num in nums:
         ❣️ .append(): add a single item to the end of a list
         squares.append(num ** 2)
-    print(squares) ✅[1, 4, 9, 16, 25]
+    print(squares) ✅ Output: [1, 4, 9, 16, 25]

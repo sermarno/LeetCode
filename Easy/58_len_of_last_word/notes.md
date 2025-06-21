@@ -1,10 +1,16 @@
 # CONCEPTS COVERED
 
-.SPLIT()
-LEN()
-NEGATIVE INDEXING
+- .SPLIT()
+- LEN()
+- NEGATIVE INDEXING
 
-# .SPLIT()
+### Key:
+- ❣️ Inner Concept
+- 🦋 Example
+- 👉 Comment
+- ✅ Output
+
+## .SPLIT()
 - Breaks a string into a list of substrings based on a separator (default = whitespace)
 
     🦋 Splitting Words String
@@ -19,7 +25,7 @@ NEGATIVE INDEXING
     s = 'one two three four'
     print(s.split(" ", 2)) ✅ Output: ['one', 'two', 'three four']
 
-# LEN()
+## LEN()
 - Returns the number of items in an object (list, string, tuple, etc.)
 
     🦋 String length
@@ -30,7 +36,7 @@ NEGATIVE INDEXING
     my_list = [1, 2, 3, 4]
     print(len(my_list)) ✅ Output: 4
 
-# NEGATIVE INDEXING
+## NEGATIVE INDEXING
 - Count indices backwards from the end
 
     🦋 Accessing last element in list
