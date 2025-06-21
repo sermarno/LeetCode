@@ -1,7 +1,7 @@
 # Concepts Covered
 
-- CUSTOM DATA STRUCTURE
-- RECURSION
+- Custom Data Structures Provided
+- Recursion
 
 ### Key:
 - ❣️ Inner Concept
@@ -10,7 +10,7 @@
 - ✅ Output
 
 
-## CUSTOM DATA STRUCTURE
+## Custom Data Structures Provided
 - Most coding platforms will give you a custom data structure to solve the problem, making you use the definition because:
     1. It's how the input is provided and processed
     2. Allows you to interact with .val and .next as a linked list structure
@@ -40,7 +40,7 @@
                     dfs(root)
                 return result
 
-## RECURSION
+## Recursion
 - A function calls itself to solve smaller versions of a problem until it reaches a base case
 
     🦋 Factorial

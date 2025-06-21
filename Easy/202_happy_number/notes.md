@@ -1,6 +1,6 @@
 # Concepts Covered
 
-- SET()
+- set()
 
 ### Key:
 - ❣️ Inner Concept
@@ -8,7 +8,7 @@
 - 👉 Comment
 - ✅ Output
 
-# SET()
+# set()
 - Unordered collection of unique elements
 - Does not allow duplicates
 - Mutable: can add or remove elements

@@ -1,9 +1,9 @@
 # Concepts Covered
 
-- CLASS
-- DICTIONARY
-- FOR LOOP
-- ENUMERATE
+- Classes
+- Dictionary
+- For Loop
+- enumerate()
 
 ### Key:
 - ❣️ Inner Concept
@@ -11,7 +11,7 @@
 - 👉 Comment
 - ✅ Output
 
-## CLASS
+## Classes
 - Writing a solution to find two numbers that add up to a target by calling a method
 
     ❣️ __init__ = setup method ran once per new object: gives object initial values (e.g. name, age, size, etc.)
@@ -32,7 +32,7 @@
         p = Person("Serra"")
         p.say_hello() ✅ Output: Hello, my name is Serra! 
 
-## DICTIONARY
+## Dictionary
 - Key-value pairs that store a key (e.g. string, number, etc.)
   and a value (e.g. number, string, list, another dictionary, etc.)
 
@@ -91,7 +91,7 @@
 
     print(grouped) ✅ Output: {2: ['apple', 'banana'], 3: ['orange'], 1: ['grape']}
 
-## FOR LOOP
+## For Loop
 - Used for iterating over a sequence (e.g. list, tuple, dictionary, set, or a string)
 
     🦋 Printing each item in list

@@ -1,9 +1,16 @@
-# CONCEPTS COVERED
-DEPTH-FIRST SEARCH (DFS)
-BREADTH-FIRST SEARCH (BFS)
-RANGE(LEN())
+# Concepts Covered
 
-# DEPTH-FIRST SEARCH (DFS)
+- Depth-First Search (DFS)
+- Breadth-First Search (BFS)
+- range(len())
+
+### Key:
+- ❣️ Inner Concept
+- 🦋 Example
+- 👉 Comment
+- ✅ Output
+
+## Depth-First Search (DFS)
 - Explores as far down one path as possible before backing up and trying another
 - Use cases:
     - Grid/graph traversal
@@ -19,7 +26,7 @@ RANGE(LEN())
     5. Backtract where there are no more unvisited neighbors
 
 
-# BREADTH-FIRST SEARCH (BFS)
+## Breadth-First Search (BFS)
 - Explores all neighbors of a node first, before going deeper
 - Use cases:
     - Finding shortest path
@@ -33,7 +40,7 @@ RANGE(LEN())
     4. Then theirs...
 
 
-# RANGE(LEN())
+## range(len())
 🦋 Example Grid
     grid = [
     ["1", "0", "1"],

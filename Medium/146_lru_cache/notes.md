@@ -1,13 +1,20 @@
 # CONCEPTS COVERED
-LRU CACHE
 
-# LRU Cache
-❣️ LRU = Least Recently Used: way to remember things but only keep a limited number of them, and when it gets full, it forgets the one you haven't used in the longest time
+- LRU Cache
+
+### Key:
+- ❣️ Inner Concept
+- 🦋 Example
+- 👉 Comment
+- ✅ Output
+
+## LRU Cache
+- LRU = Least Recently Used: way to remember things but only keep a limited number of them, and when it gets full, it forgets the one you haven't used in the longest time
 - Think of it like a desk with limited space:
     - You put important papers (data) on desk
     - When desk is full and you want to add new paper, you remove the paper you haven't looked at in the longest time
     - The goal: keep the most recently used or important papers handy
-❣️ LRU function: 
+- LRU function: 
     - Stores key-value pairs (e.g. a note and it's content)
     - Keeps track of which key used most recently
     - When capacity is exceeded, remove least recently used key

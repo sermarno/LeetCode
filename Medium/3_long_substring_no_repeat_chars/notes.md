@@ -1,17 +1,18 @@
-# CONCEPTS COVERED
-CHOOSING THE RIGHT DATA STRUCTURES
-SET()
-RANGE()
-LEN()
-.ADD()
-.REMOVE()
-COUNTER
-WHILE LOOP
-ARRAY
-SLIDING WINDOW
+# Concepts Covered
 
+- Choosing Data Structures
+- set()
+- Counter()
+- While Loop
+- Sliding Window Technique
 
-# FIGURING OUT DATA STRUCTURE FOR PROBLEMS
+### Key:
+- ❣️ Inner Concept
+- 🦋 Example
+- 👉 Comment
+- ✅ Output
+
+## Choosing Data Structures
 5-Step Guide to Choosing the Right Tools:
 
 1. What is the input and output?
@@ -37,7 +38,7 @@ SLIDING WINDOW
 5. Does order matter? Do I need to sort or compare elements?
     - tells you whether you need indexes, or need to use a loop with range(), or sort beforehand.
 
-# For This Problem
+### For This Problem
     # step 1: what is input/output?
         # input: string ( s = "ardhhgit")
         # output: integer representing length of longest substring, no dups
@@ -45,7 +46,7 @@ SLIDING WINDOW
     # step 2: what are check tracking/checking?
         # keep track of characters seen
         # need to slide through string and track chars inside curr window
-        ❣️ sliding window technique = using tow pointers (start and end) to define
+        ❣️ Sliding Window Technique = using tow pointers (start and end) to define
         # the window of a subset of elements
 
     # step 3: do we need to look back at prev chars?
@@ -58,9 +59,8 @@ SLIDING WINDOW
         # two pointers -> to track start and end of substring window
 
 
-# SET()
-
-- unordered collection of unique elements (box of things where no dups allowed)
+## set()
+- Unordered collection of unique elements (box of things where no dups allowed)
 
     🦋 Printing out each word in list
     my_set = set()

@@ -27,9 +27,6 @@ class Solution:
                 return i
         return - 1
             
-
-            
-
 s = Solution()
 result = s.firstUniqChar('loveleetcode')
 print(result)

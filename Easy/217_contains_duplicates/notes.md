@@ -1,8 +1,8 @@
 # Concepts Covered
 
-- DICTIONARY
-- FOR LOOP
-- BOOLEAN
+- Dictionary
+- For Loop
+- Booleans
 
 ### Key:
 - ❣️ Inner Concept
@@ -10,7 +10,7 @@
 - 👉 Comment
 - ✅ Output
 
-## DICTIONARY
+## Dictionary
 - Collection of key-value pairs, where:
     - Keys: unique identifiers (e.g. 'name')
     - Values: corresponding data (e.g. 'Serra')

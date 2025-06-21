@@ -1,8 +1,8 @@
 # Concepts Covered
 
-- PALINDROME
-- STR()
-- STRING SLICING
+- Palindrom
+- str()
+- String Slicing
 
 ### Key:
 - ❣️ Inner Concept
@@ -10,7 +10,7 @@
 - 👉 Comment
 - ✅ Output
 
-## PALINDROME
+## Palindrome
 - A word, number, phrase, or sequence that reads the same forwards and backwards.
 
     🦋 Examples
@@ -23,7 +23,7 @@
     ❣️ If s is a string:
         s == s[::-1] 👉 Checks if s is a palindrome
 
-## STR()
+## str()
 - Converts value into a string, no matter the data type
 
     🦋 Using str() to concatenate
@@ -31,7 +31,7 @@
     print("I am " + str(age) + " years old.")
     ✅ Output: I am 25 years old.
 
-## STRING SLICING
+## String Slicing
 - Allows you to access a subset (slice) or a string:
     - string[start:end:step]
     👉 start: index where slice starts (inclusive)

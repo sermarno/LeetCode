@@ -1,6 +1,6 @@
 # Concepts Covered
 
-- RANGE()
+- range()
 
 ### Key:
 - ❣️ Inner Concept
@@ -8,7 +8,7 @@
 - 👉 Comment
 - ✅ Output
 
-## RANGE()
+## range()
 - Generates a sequence of numbers, which is commonly used to control a loop
 - Basic syntax:
     - range(stop)
