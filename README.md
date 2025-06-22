@@ -34,24 +34,28 @@ At the top of each solution file, you'll find the original LeetCode prompt and a
 
 ## Progress Tracker
 
-Easy: 9 / 41 solved
+Easy: 11 / 41 solved
 
 - ✅ 121_best_time_buy_sell_stock (Easy)
+- ✅ 14_longest_common_prefix (Easy)
 - ✅ 1_two_sum (Easy)
 - ✅ 202_happy_number (Easy)
 - ✅ 206_rev_linked_list (Easy)
+- ✅ 20_valid_parentheses (Easy)
 - ✅ 217_contains_duplicates (Easy)
 - ✅ 252_meeting_rooms (Easy)
 - ✅ 387_first_unique_char_in_string (Easy)
 - ✅ 58_len_of_last_word (Easy)
 - ✅ 9_palindrome_number (Easy)
 
-Medium: 5 / 115 solved
+Medium: 7 / 115 solved
 
 - ✅ 11_container_w_most_water (Medium)
 - ✅ 146_lru_cache (Medium)
 - ✅ 200_num_of_islands (Medium)
 - ✅ 3_long_substring_no_repeat_chars (Medium)
+- ✅ 49_group_anagrams (Medium)
+- ✅ 648_replace_words (Medium)
 - ✅ 767_reorganize_string (Medium)
 
 
