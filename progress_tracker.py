@@ -39,7 +39,7 @@ for level in DIFFICULTIES:
         if is_solved:
             solved += 1
         checkbox = '✅' if is_solved else ' '
-        entries.append(f"- {checkbox} {problem} ({level})")
+        entries.append(f"- {checkbox} {problem})")
 
     lines.append(f"{level}: {solved} / {total} solved\n")
     lines.extend(entries)
